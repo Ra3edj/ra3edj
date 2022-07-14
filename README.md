@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://twitter.com/ra3edj_" target="blank"><img src="https://img.shields.io/twitter/follow/ra3edj_?logo=twitter&style=for-the-badge" alt="ra3edj_" /></a> </p>
+<h1>Rj</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
