@@ -7,6 +7,3 @@
 <a href="https://www.youtube.com/c/Ra3edj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/ra3edj" height="30" width="40" /></a>
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra3edj&show_icons=true&locale=en" alt="ra3edj" /></p>
